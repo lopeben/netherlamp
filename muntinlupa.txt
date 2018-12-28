@@ -1,0 +1,200 @@
+Thu Dec 27 19:58:26 2018
+Temp: 30.115 Hum: 74 Press: 1008
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Thu Dec 27 20:04:44 2018
+Temp: 30.115 Hum: 74 Press: 1008
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Thu Dec 27 20:10:07 2018
+Temp: 30.115 Hum: 74 Press: 1008
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Thu Dec 27 20:40:08 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1008
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Thu Dec 27 21:10:08 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1008
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Thu Dec 27 21:40:19 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1008
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Thu Dec 27 22:10:19 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1008
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Thu Dec 27 22:40:20 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1008
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Thu Dec 27 23:10:20 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1008
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Thu Dec 27 23:40:21 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1009
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 00:10:21 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1009
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 00:40:22 2018
+Temp: 30.014999999999997 Hum: 74 Press: 1009
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 01:10:23 2018
+Temp: 30.014999999999997 Hum: 74 Press: 1009
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 01:40:23 2018
+Temp: 29.915 Hum: 83 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 02:10:24 2018
+Temp: 29.915 Hum: 83 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 02:40:24 2018
+Temp: 29.915 Hum: 83 Press: 1007
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 03:10:27 2018
+Temp: 29.915 Hum: 83 Press: 1007
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 03:40:27 2018
+Temp: 29.915 Hum: 83 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 04:10:28 2018
+Temp: 29.915 Hum: 83 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 04:40:28 2018
+Temp: 29.915 Hum: 83 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 05:10:28 2018
+Temp: 29.915 Hum: 83 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 05:40:29 2018
+Temp: 29.915 Hum: 88 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 06:10:30 2018
+Temp: 29.915 Hum: 88 Press: 1008
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 06:40:31 2018
+Temp: 29.915 Hum: 83 Press: 1009
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 07:10:31 2018
+Temp: 29.915 Hum: 83 Press: 1009
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 07:40:32 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1009
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 08:10:32 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1009
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 08:40:33 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1010
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 09:10:40 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1010
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 09:41:44 2018
+Temp: 30.014999999999997 Hum: 78 Press: 1010
+Hue: 0.5952380952380985 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 67 Blue: 146
+Fri Dec 28 10:11:44 2018
+Temp: 30.115 Hum: 69 Press: 1010
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Fri Dec 28 10:41:45 2018
+Temp: 30.115 Hum: 69 Press: 1010
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Fri Dec 28 11:11:45 2018
+Temp: 30.214999999999996 Hum: 66 Press: 1010
+Hue: 0.4047619047619083 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 67
+Fri Dec 28 11:41:46 2018
+Temp: 30.214999999999996 Hum: 66 Press: 1010
+Hue: 0.4047619047619083 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 67
+Fri Dec 28 12:11:46 2018
+Temp: 30.214999999999996 Hum: 66 Press: 1010
+Hue: 0.4047619047619083 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 67
+Fri Dec 28 12:41:48 2018
+Temp: 30.214999999999996 Hum: 66 Press: 1009
+Hue: 0.4047619047619083 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 67
+Fri Dec 28 13:11:49 2018
+Temp: 30.115 Hum: 74 Press: 1008
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Fri Dec 28 13:41:50 2018
+Temp: 30.115 Hum: 74 Press: 1008
+Hue: 0.5000000000000017 Sat: 0.9 Lum: 0.3
+Red: 8 Green: 146 Blue: 146
+Fri Dec 28 14:11:50 2018
+Temp: 29.915 Hum: 88 Press: 1007
+Hue: 0.6904761904761918 Sat: 0.9 Lum: 0.3
+Red: 28 Green: 8 Blue: 146
+Fri Dec 28 15:57:22 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1007
+Hue: 0.8809523809523854 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 107
+Fri Dec 28 16:02:23 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1007
+Hue: 0.8809523809523854 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 107
+Fri Dec 28 16:32:23 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1008
+Hue: 0.8809523809523854 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 107
+Fri Dec 28 17:02:24 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1008
+Hue: 0.8809523809523854 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 107
+Fri Dec 28 17:32:25 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1008
+Hue: 0.8809523809523854 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 107
+Fri Dec 28 18:02:26 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1008
+Hue: 0.8809523809523854 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 107
+Fri Dec 28 18:17:07 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1009
+Hue: 0.8835616438356197 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 104
+Fri Dec 28 18:17:33 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1009
+Hue: 0.8835616438356197 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 104
+Fri Dec 28 18:47:33 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1009
+Hue: 0.8835616438356197 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 104
+Fri Dec 28 19:17:34 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1009
+Hue: 0.8835616438356197 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 104
+Fri Dec 28 19:47:35 2018
+Temp: 29.714999999999996 Hum: 100 Press: 1009
+Hue: 0.8835616438356197 Sat: 0.9 Lum: 0.3
+Red: 146 Green: 8 Blue: 104
