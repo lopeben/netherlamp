@@ -78,7 +78,23 @@ def display_direct(h, s, l):
     os.write(lightdev, bcmd.encode());
 
 def rescale_input(x, in_max, in_min, out_max, out_min):
+
+    if (x >= in_max):
+        x = in_max;
+    elif (x <= in_min):
+        x = in_min;
+    else:
+        x = x;
+
     y = (((out_max - out_min)*(x - in_min)) / (in_max - in_min)) + out_min;
+
+    if  (y >= out_max):
+        y = out_max;
+    elif (y<= out_min):
+        y = out_min;
+    else:
+        y = y;
+
     return y;
 
 while True:
@@ -114,9 +130,9 @@ while True:
     print('Temp: {0}'.format(temperature/10), 'Hum: {0}'.format(humidity), 'Press: {0}'.format(pressure));
     print('Temp: {0}'.format(temperature/10), 'Hum: {0}'.format(humidity), 'Press: {0}'.format(pressure), file=open(logfile,"a"));
 
-    h = rescale_input(temperature/10, 30.43, 29.7, 0.1, 0.9);
-    s = rescale_input(humidity, 100, 50, 0.9, 0.5);
-    l = rescale_input(pressure, 1015, 1008, 0.5, 0.1);
+    h = rescale_input(temperature/10, 30.43, 29.7, 0.01, 0.99);
+    s = rescale_input(humidity, 100, 50, 0.99, 0.5);
+    l = rescale_input(pressure, 1018, 1008, 0.5, 0.01);
 
     print('Hue: {0}'.format(h), 'Sat: {0}'.format(s), 'Lum: {0}'.format(l));
     print('Hue: {0}'.format(h), 'Sat: {0}'.format(s), 'Lum: {0}'.format(l), file=open(logfile,"a"));
