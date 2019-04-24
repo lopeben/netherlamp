@@ -1,1 +1,1 @@
-# netherlamp - a decorative lamp that changes its color depending on weather conditions
+# netherlamp - a decorative lamp that change its color depending on weather conditions
